@@ -1,4 +1,4 @@
-package com.joseph.mopprimenumber;
+package com.joseph.mopprimenumber.activity;
 
 import android.app.Activity;
 import android.app.AlertDialog;

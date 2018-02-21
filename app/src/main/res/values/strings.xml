@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MopPrimeNumber</string>
+    <string name="app_name">猫扑素数</string>
+    <string name="app_name_en">MopPrimeNumber</string>
 </resources>
